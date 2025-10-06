@@ -2,7 +2,7 @@
 from bs4 import BeautifulSoup
 
    
-with open('arc_solutions_logo.html', 'r', encoding='utf-8') as file:
+with open('index.html', 'r', encoding='utf-8') as file:
   content = file.read() # open html file
 
 soup = BeautifulSoup(content, "html.parser") # parse content
@@ -20,5 +20,5 @@ if header2:
 
 # show changes
 savechanges = soup.prettify("utf-8")
-with open("arc_solutions_logo.html", "wb") as file: 
+with open("index.html", "wb") as file: 
     file.write(savechanges)
