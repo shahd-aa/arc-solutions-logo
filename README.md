@@ -56,11 +56,6 @@ Entwickelt während meines Schülerpraktikums bei **ARC Solutions GmbH** vom **2
 
 Dieses Projekt war meine erste Aufgabe und diente als Einführung in die Arbeitsweise des Unternehmens sowie als Test meiner Programmierkenntnisse.
 
-## 👤 Autorin
-
-**Shahd Abo Alnassr**
-- GitHub: [@shahd-aa](https://github.com/shahd-aa)
-
 ## 📄 Lizenz & Rechte
 
 Dieses Projekt wurde ausschließlich für **Bildungszwecke** im Rahmen eines Schülerpraktikums erstellt.
@@ -70,3 +65,6 @@ Dieses Projekt wurde ausschließlich für **Bildungszwecke** im Rahmen eines Sch
 ---
 
 *Erstellt als Teil meines Schülerpraktikums im Bereich Softwareentwicklung bei ARC Solutions GmbH.*
+
+---
+*made with ❤️ from shahd*
