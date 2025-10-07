@@ -2,6 +2,12 @@
 
 > Eine dynamische, aufbauende Animation des Firmenlogos, entwickelt mit modernen Web-Technologien und der GSAP-Animationsbibliothek.
 
+## 🚀 Live Demo
+
+Das Projekt ist online verfügbar und kann direkt im Browser betrachtet werden:
+
+**🔗 https://shahd-aa.github.io/arc-solutions-logo/**
+
 ## 📋 Über das Projekt
 
 Dieses Projekt entstand im Rahmen meines zweiwöchigen Schülerpraktikums bei **ARC Solutions GmbH** als erste Aufgabe zur Überprüfung meiner Vorkenntnisse in HTML, CSS und JavaScript. Ziel war es, das statische Firmenlogo in eine ansprechende, interaktive Animation zu verwandeln, die beim Laden der Seite das Logo dynamisch aufbaut.
@@ -21,12 +27,6 @@ Dieses Projekt entstand im Rahmen meines zweiwöchigen Schülerpraktikums bei **
 - **Responsives Design** 
 - **Flüssige Animationen** 
 - **Sauberer, kommentierter Code** 
-
-## 🚀 Live Demo
-
-Das Projekt ist online verfügbar und kann direkt im Browser betrachtet werden:
-
-**🔗 https://shahd-aa.github.io/arc-solutions-logo/**
 
 ## 🛠️ Technologien
 
